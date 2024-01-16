@@ -1,5 +1,4 @@
 # wheeled-robot
-# wheeled-robot
 # Bluetooth Controlled 4-Wheeld Robot
 ## Introduction
 
