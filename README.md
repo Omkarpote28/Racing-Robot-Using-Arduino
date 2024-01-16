@@ -33,19 +33,13 @@ Follow the wiring diagram provided in the repository to connect the components p
 
 ### Installation
 
-1. Clone this repository to your local machine.
+1. Upload the Arduino sketch (`robot_control.ino`) to your Arduino board.
 
-   ```bash
-   git clone https://github.com/your-username/4wheel-bluetooth-robot.git
-   ```
+2. Make the connections as shown in the circuit iagram [          ]
 
-2. Upload the Arduino sketch (`robot_control.ino`) to your Arduino board.
+3. Power on the robot and pair it with your smartphone via Bluetooth.
 
-3. Make the connections as shown in the circuit iagram [          ]
-
-4. Power on the robot and pair it with your smartphone via Bluetooth.
-
-5. Open the Bluetooth control app on your smartphone and start driving your robot!
+4. Open the Bluetooth control app on your smartphone and start driving your robot!
 
 ## Code Structure
 
