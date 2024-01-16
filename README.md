@@ -42,8 +42,7 @@ Follow the wiring diagram provided in the repository to connect the components p
 
 ## Code Structure
 
-- `robot_control.ino`: The main Arduino sketch that handles Bluetooth communication and motor control.
-- `libraries/`: Contains any external libraries used in the project.
+- " 4_wheeled_robot.ino ": The main Arduino sketch that handles Bluetooth communication and motor control.
 
 ## Contributing
 
