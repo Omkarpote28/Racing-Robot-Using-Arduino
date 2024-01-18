@@ -1,4 +1,4 @@
-# wheeled-robot
+# Racing-Robot-Using-Arduino
 # Bluetooth Controlled 4-Wheeld Robot
 ## Introduction
 
@@ -26,7 +26,11 @@ Welcome to the Bluetooth Controlled 4-Wheel Robot project! This repository conta
 
 ### Wiring Diagram
 
-![Wiring Diagram](link_to_diagram_image)
+![Circuit 1](https://github.com/Omkarpote28/Racing-Robot-Using-Arduino/assets/141131177/a010bb0c-1e72-4469-a368-7482858eb009)
+
+![Circuit 2](https://github.com/Omkarpote28/Racing-Robot-Using-Arduino/assets/141131177/377f54c4-80f8-4c65-8314-e99b396730b5)
+
+
 
 Follow the wiring diagram provided in the repository to connect the components properly.
 
