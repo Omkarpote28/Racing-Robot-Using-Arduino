@@ -36,7 +36,7 @@ Follow the wiring diagram provided in the repository to connect the components p
 
 ### Installation
 
-1. Upload the Arduino sketch (`robot_control.ino`) to your Arduino board.
+1. Upload the Arduino sketch ([`robot_control.ino`](https://github.com/Omkarpote28/Racing-Robot-Using-Arduino/tree/main/Code)) to your Arduino board.
 
 2. Make the connections as shown in the circuit iagram [          ]
 
